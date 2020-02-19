@@ -1,0 +1,11 @@
+C:\Users\leonardo.filipini\Desktop\Leonardo\bin\Debug\netcoreapp3.1\Leonardo.exe
+C:\Users\leonardo.filipini\Desktop\Leonardo\bin\Debug\netcoreapp3.1\Leonardo.deps.json
+C:\Users\leonardo.filipini\Desktop\Leonardo\bin\Debug\netcoreapp3.1\Leonardo.runtimeconfig.json
+C:\Users\leonardo.filipini\Desktop\Leonardo\bin\Debug\netcoreapp3.1\Leonardo.runtimeconfig.dev.json
+C:\Users\leonardo.filipini\Desktop\Leonardo\bin\Debug\netcoreapp3.1\Leonardo.dll
+C:\Users\leonardo.filipini\Desktop\Leonardo\bin\Debug\netcoreapp3.1\Leonardo.pdb
+C:\Users\leonardo.filipini\Desktop\Leonardo\obj\Debug\netcoreapp3.1\Leonardo.csprojAssemblyReference.cache
+C:\Users\leonardo.filipini\Desktop\Leonardo\obj\Debug\netcoreapp3.1\Leonardo.AssemblyInfoInputs.cache
+C:\Users\leonardo.filipini\Desktop\Leonardo\obj\Debug\netcoreapp3.1\Leonardo.AssemblyInfo.cs
+C:\Users\leonardo.filipini\Desktop\Leonardo\obj\Debug\netcoreapp3.1\Leonardo.dll
+C:\Users\leonardo.filipini\Desktop\Leonardo\obj\Debug\netcoreapp3.1\Leonardo.pdb
